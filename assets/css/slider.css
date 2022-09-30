@@ -6,6 +6,7 @@
     width: 62%;
     max-width: none;
     display: flex;
+    overflow: auto;
 }
 
 #slider .slider-container .slider-wrap .before-img img {
